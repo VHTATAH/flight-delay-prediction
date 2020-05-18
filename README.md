@@ -22,22 +22,22 @@ Since June 2003, the airlines that report on-time data also report the causes of
 ![](img/Avg_dep_del.png)
 
 
-![](img/week_day_dalays.png)
+![](img/week%20day%20%%20dalays.png)
 
 
-![](img/month_delays.png)
+![](img/month%20%%20delays.png)
 
 
-![](img/hour_delays.png)
+![](img/hour%20delays.png)
 
 
-![](img/delays_by_carrier.png)
+![](img/delays%20by%20carrier.png)
 
 ## Logistic Regression
 
 ### Confusion Matrix:
 
-![](img/Logistic_Confusion_Matrix.png)
+![](img/Logistic%20Confusion%20Matrix.png)
 
 ### ROC Curve:
 
@@ -47,22 +47,22 @@ Since June 2003, the airlines that report on-time data also report the causes of
 
 ### Confusion Matrix:
 
-![](img/Random_Forest_Confusion_Matrix.png)
+![](img/Random%20Forest%20Confusion%20Matrix.png)
 
 ### ROC Curve:
 
-![](img/Random_Forest_ROC.png)
+![](img/Random%20Forest%20ROC.png)
 
 ### Gini Importance:
 
-![](img/Gini_Importance.png)
+![](img/Gini%20Importance.png)
 
 ## Gradient Boosting 
 
 ### Confusion Matrix:
 
-![](img/Gradient_Boosting_Confusion_Matrix.png)
+![](img/Gradient%20Boosting%20Confusion%20Matrix.png)
 
 ### ROC Curve:
 
-![](img/Gradient_Boosting_ROC.png)
+![](img/Gradient%20Boosting%20ROC.png)
